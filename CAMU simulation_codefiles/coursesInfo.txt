@@ -1,0 +1,65 @@
+Computer Engineering
+CS 213,OOP,1.0,Major Requirement,Engineering
+CS 334,Discrete,1.0,Major Requirement,Engineering
+MA 152,Statistics,1.0,Major Requirement,Engineering
+end
+
+Mechanical Engineering
+ME 124,CAD/CAM,1.0,Major Requirement,Engineering
+ME 235,Electro,1.0,Major Requirement,Engineering
+ME 101,Thermodynamics,1.0,Major Requirement,Engineering
+MA 152,Statistics,1.0,Major Requirement,Engineering
+end
+
+Electrical Engineering
+ME 124,CAD/CAM,1.0,Major Requirement,Engineering
+ME 235,Electro,1.0,Major Requirement,Engineering
+ME 101,Thermodynamics,1.0,Major Requirement,Engineering
+MA 152,Statistics,1.0,Major Requirement,Engineering
+end
+
+Computer Science
+CS 213,OOP,1.0,Major Requirement,Computer Science & Information Systems
+CS 334,Discrete,1.0,Major Requirement,Computer Science & Information Systems
+MA 151,Statistics for CS,1.0,Major Requirement,Computer Science & Information Systems
+end
+
+Economics
+BA 321,Microeconomics,1.0,Major Requirement,Economics & Business Administration
+BA 322,Macroeconomics,1.0,Major Requirement,Economics & Business Administration
+MA 153,Maths for Economists,1.0,Major Requirement,Economics & Business Administration
+end
+
+Business Administration
+BA 101,FDE I,1.0,Major Requirement,Economics & Business Administration
+BA 111,Financial Accounting,1.0,Major Requirement,Economics & Business Administration
+MA 132,Applied Calculus,1.0,Major Requirement,Economics & Business Administration
+end
+
+Humanities
+HS 111,Leadership 1,1.0,Major Requirement,Humanities & Social Sciences
+HS 222,Leadership 2,1.0,Major Requirement,Humanities & Social Sciences
+BA 101,FDE I,1.0,Major Requirement,Humanities & Social Sciences
+HS 333,WOC,1.0,Major Requirement,Humanities & Social Sciences
+HS 334,Ashesi Success,1.0,Major Requirement,Humanities & Social Sciences
+end
+
+Undecided
+CS 213,OOP,1.0,Major Requirement,Engineering
+CS 334,Discrete,1.0,Major Requirement,Engineering
+MA 152,Statistics,1.0,Major Requirement,Engineering
+ME 124,CAD/CAM,1.0,Major Requirement,Engineering
+ME 235,Electro,1.0,Major Requirement,Engineering
+ME 101,Thermodynamics,1.0,Major Requirement,Engineering
+CS 213,OOP,1.0,Major Requirement,Computer Science & Information Systems
+CS 334,Discrete,1.0,Major Requirement,Computer Science & Information Systems
+MA 151,Statistics for CS,1.0,Major Requirement,Computer Science & Information Systems
+BA 321,Microeconomics,1.0,Major Requirement,Economics & Business Administration
+BA 322,Macroeconomics,1.0,Major Requirement,Economics & Business Administration
+MA 153,Maths for Economists,1.0,Major Requirement,Economics & Business Administration
+HS 111,Leadership 1,1.0,Major Requirement,Humanities & Social Sciences
+HS 222,Leadership 2,1.0,Major Requirement,Humanities & Social Sciences
+BA 101,FDE I,1.0,Major Requirement,Humanities & Social Sciences
+HS 333,WOC,1.0,Major Requirement,Humanities & Social Sciences
+HS 334,Ashesi Success,1.0,Major Requirement,Humanities & Social Sciences
+end
